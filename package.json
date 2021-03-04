@@ -1,0 +1,16 @@
+{
+  "name": "node_backend",
+  "version": "1.0.0",
+  "description": "basic backend for node and mongo app",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "deepanshu johar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
+  }
+}
